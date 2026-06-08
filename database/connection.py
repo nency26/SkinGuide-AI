@@ -21,7 +21,7 @@ def get_db_connection():
             conn.close()
 
 def fetch_all_products():
-    """Retrieves the entire product catalog for the ML engine."""
+    """Retrieves the entire product catalog."""    
     with get_db_connection() as conn:
         cursor = conn.cursor()
         cursor.execute("SELECT * FROM products")
