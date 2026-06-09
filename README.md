@@ -179,7 +179,7 @@ SkinGuide-AI/
 │   ├── schema.sql
 │   └── data_ingest.py
 │
-├── ml_models/
+├── recommendation_models/
 │   ├── recommend.py
 │   ├── vectorizer.py
 │   ├── skin_types.py
