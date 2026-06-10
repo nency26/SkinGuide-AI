@@ -132,6 +132,26 @@ The Streamlit application provides:
 * Ingredient Insights
 * Product Match Scores
 
+## 📸 Application UI
+
+<p align="center">
+  <img src="UI_images\dashboard.png" width="800">
+</p>
+
+<p align="center">
+  <b>Skin Analysis Questionnaire</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="UI_images\with_recommendation.png" width="800">
+</p>
+
+<p align="center">
+  <b>Recommended Product Dashboard</b>
+</p>
+
 ---
 
 # Technology Stack
