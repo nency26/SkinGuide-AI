@@ -1,4 +1,18 @@
 # Virtual Environments
 venv
+
 # Python Bytecode
 __pycache__/
+
+# SQL database
+skincare.db
+
+# pickle models
+pickled_models/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw Dataset
+beauty_data.csv
+data.csv
